@@ -25,4 +25,4 @@ function Movie() {
    );
 }
 
-root.render(<Movie>);
+root.render(<Movie/>);
